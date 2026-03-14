@@ -4,7 +4,7 @@ A classic Snake game built with pure HTML, CSS, and JavaScript. No frameworks, n
 
 ## 🎮 Live Demo
 
-👉 [Play it here](https://yourusername.github.io/snake-game) *(replace with your GitHub Pages link)*
+👉 https://minajuddin0510.github.io/snake-game/
 
 ## 📸 Preview
 
@@ -42,7 +42,7 @@ snake-game/
 Download or clone the repo, then open `index.html` in any browser:
 
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://minajuddin0510.github.io/snake-game/
 cd snake-game
 open index.html
 ```
@@ -52,7 +52,7 @@ open index.html
 1. Push `index.html` to your GitHub repo
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, root folder
-4. Your game will be live at `https://yourusername.github.io/snake-game`
+4. Your game will be live at https://minajuddin0510.github.io/snake-game/
 
 ## 🛠️ Built With
 
@@ -69,3 +69,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ❤️ and a lot of arrow key tapping.
 
 **Author:** Minaj Uddin
+https://github.com/minajuddin0510
